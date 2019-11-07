@@ -1,2 +1,3 @@
 # hello-world
-just another repository
+
+This is kingsley, i just opened up a new github account
